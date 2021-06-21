@@ -21,9 +21,6 @@ A Template
 
 ## 📝Configuration
 
-   ### Example (Required)
-   * Example
-
 ## 🆕Changelog
 
    ### V1.0 
