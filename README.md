@@ -15,7 +15,6 @@ A Template
 
 
 ## 💻Requirements
-* 
 
 ## 📦Installation
 
@@ -23,13 +22,7 @@ A Template
 
 ## 🆕Changelog
 
-   ### V1.0 
-   * 
-
 ## 💸Credits
-
-   ### API
-   * 
 
 ## 📄License
 This repository is licensed under the EXAMPLE License.
