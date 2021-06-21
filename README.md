@@ -26,13 +26,13 @@ A Template
 
 ## 🆕Changelog
 
-   ### V1.0 - 🌈
+   ### V1.0 
    * 
 
 ## 💸Credits
 
    ### API
-   * [StormGlass](https://stormglass.io/)
+   * 
 
 ## 📄License
 This repository is licensed under the EXAMPLE License.
