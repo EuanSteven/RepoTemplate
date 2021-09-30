@@ -27,4 +27,4 @@ A Template
 ## 📄License
 This repository is licensed under the EXAMPLE License.
 
-Copyright©️ 2021-2021 Xioto
+Copyright©️ 2021-2021 AUTHOR
