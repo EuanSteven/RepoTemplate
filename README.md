@@ -38,7 +38,7 @@ _For more examples, please refer to the [Documentation](https://github.com/USERN
 
 ## 🆕Changelog
 
-   ### V1.1 - CHAANGES
+   ### V1.1 - CHANGES
    * CHANGE
    * CHANGE
    
