@@ -1,30 +1,78 @@
-# xioto-template
+# REPONAME
 
-A Template
+DESCRIPTION
 
-<img src="https://github.com/Xioto/" alt="Put logo here" width="500"/>
-
-[![GitHub Status](https://img.shields.io/github/checks-status/Xioto/example)](https://github.com/Xioto/python-surf-forecast/)
-[![Github All Releases](https://img.shields.io/github/downloads/Xioto/example/total.svg?style=flat-square)](https://github.com/Xioto/python-surf-forecast/releases/latest)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![License](https://img.shields.io/github/license/Xioto/example)
-
-[See here for a detailed documentation!](https://github.com/Xioto/example/wiki)
-
-## NOTE -
-
+<a href="https://github.com/USERNAME/REPONAME/wiki"><strong>View Docs</strong></a>
 
 ## 💻Requirements
 
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+  
 ## 📦Installation
 
-## 📝Configuration
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+5. Change git remote url to avoid accidental pushes to base project
+   ```sh
+   git remote set-url origin github_username/repo_name
+   git remote -v # confirm the changes
+   ```
+   
+## 📝Usage
+
+_For more examples, please refer to the [Documentation](https://github.com/USERNAME/REPONAME/wiki)_
 
 ## 🆕Changelog
 
+   ### V1.1 - CHAANGES
+   * CHANGE
+   * CHANGE
+   
+   ### V1.0 - CHANGES
+   * CHANGE
+   * CHANGE
+
+## 🗺️Roadmap
+
+- [ ] Feature
+- [ ] Feature
+- [ ] Feature
+    - [ ] Nested Feature
+
+_See [issues](https://github.com/USERNAME/REPONAME/issues) for a list of proposed features and known issues_
+
 ## 💸Credits
 
-## 📄License
-This repository is licensed under the EXAMPLE License.
+   ### API
+   * [*](*)
+   * [*](*)
+   
+   ### Tutorials
+   * [*](*)
+   * [*](*)
+   
+   ### Fixes
+   * [*](*)
+   * [*](*)
 
-Copyright©️ 2021-2021 AUTHOR
+   ### Other
+   * [*](*)
+
+## 📄License
+Distributed under the LICENSE
+
+_See [LICENSE](https://github.com/USERNAME/REPONAME/LICENSE) for more information_
